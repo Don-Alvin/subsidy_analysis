@@ -1,101 +1,101 @@
-,National_ID,Age,Gender,Region,Income_Level,Household_Dependents,Monthly_Energy_Consumption_kWh,Subsidy_Eligibility,Subsidy_Type,Amount_(NGN),Channel,Date,Wallet_Activity_Status,Wallet_Balance_(NGN),Days_Since_Last_Transaction,Avg_Monthly_Wallet_Balance,Suspected_Fraud
-0,ID00001,56,Male,Lagos,Low,4,151,1,Food,2977,Mobile Wallet,2022-01-04,Active,4373.0,16.0,5986.0,0
-1,ID00001,56,Male,Lagos,Low,4,151,1,Food,2689,Bank Account,2020-12-20,No Wallet,0.0,0.0,0.0,0
-2,ID00001,56,Male,Lagos,Low,4,151,1,Food,3251,Mobile Wallet,2022-06-05,Active,3353.0,76.0,2276.0,0
-3,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,6065,Mobile Wallet,2021-05-23,Active,5090.0,55.0,4347.0,0
-4,ID00001,56,Male,Lagos,Low,4,151,1,Food,3201,Mobile Wallet,2023-09-17,Inactive,7870.0,3.0,5906.0,0
-5,ID00001,56,Male,Lagos,Low,4,151,1,Fuel,4186,Bank Account,2019-11-05,No Wallet,0.0,0.0,0.0,0
-6,ID00001,56,Male,Lagos,Low,4,151,1,Food,3558,Cash Pickup,2022-08-27,No Wallet,0.0,0.0,0.0,0
-7,ID00001,56,Male,Lagos,Low,4,151,1,Food,3485,Mobile Wallet,2021-03-07,Active,3003.0,49.0,3309.0,0
-8,ID00001,56,Male,Lagos,Low,4,151,1,Fuel,5108,Bank Account,2021-09-10,No Wallet,0.0,0.0,0.0,0
-9,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,8088,Cash Pickup,2020-10-11,No Wallet,0.0,0.0,0.0,0
-10,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,6964,Bank Account,2019-03-14,No Wallet,0.0,0.0,0.0,0
-11,ID00001,56,Male,Lagos,Low,4,151,1,Fuel,5689,Mobile Wallet,2020-09-14,Active,4207.0,94.0,3973.0,0
-12,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,6816,Cash Pickup,2019-07-30,No Wallet,0.0,0.0,0.0,0
-13,ID00001,56,Male,Lagos,Low,4,151,1,Food,2701,Bank Account,2020-09-26,No Wallet,0.0,0.0,0.0,0
-14,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,4170,Cash Pickup,2023-03-16,No Wallet,0.0,0.0,0.0,0
-15,ID00002,69,Female,Oyo,Middle,7,39,0,Food,2039,Bank Account,2020-10-10,No Wallet,0.0,0.0,0.0,0
-16,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5624,Bank Account,2021-06-06,No Wallet,0.0,0.0,0.0,0
-17,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5667,Cash Pickup,2021-06-23,No Wallet,0.0,0.0,0.0,0
-18,ID00002,69,Female,Oyo,Middle,7,39,0,Food,2114,Bank Account,2023-08-31,No Wallet,0.0,0.0,0.0,0
-19,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3320,Cash Pickup,2022-09-23,No Wallet,0.0,0.0,0.0,0
-20,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,4183,Cash Pickup,2019-09-26,No Wallet,0.0,0.0,0.0,0
-21,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3285,Mobile Wallet,2020-08-12,Active,7566.0,91.0,4782.0,0
-22,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3327,Cash Pickup,2019-06-18,No Wallet,0.0,0.0,0.0,0
-23,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5806,Mobile Wallet,2023-01-31,Active,3176.0,35.0,4282.0,0
-24,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3500,Bank Account,2023-06-11,No Wallet,0.0,0.0,0.0,0
-25,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5068,Cash Pickup,2019-04-11,No Wallet,0.0,0.0,0.0,0
-26,ID00002,69,Female,Oyo,Middle,7,39,0,Food,2076,Cash Pickup,2019-05-08,No Wallet,0.0,0.0,0.0,0
-27,ID00003,46,Female,Yobe,Low,8,112,1,Food,2772,Cash Pickup,2019-09-05,No Wallet,0.0,0.0,0.0,0
-28,ID00003,46,Female,Yobe,Low,8,112,1,Food,2404,Cash Pickup,2020-08-12,No Wallet,0.0,0.0,0.0,0
-29,ID00003,46,Female,Yobe,Low,8,112,1,Food,2536,Mobile Wallet,2020-07-25,Active,9323.0,83.0,2422.0,0
-30,ID00003,46,Female,Yobe,Low,8,112,1,Food,3132,Mobile Wallet,2023-04-03,Active,8105.0,34.0,2921.0,0
-31,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,5958,Cash Pickup,2023-08-01,No Wallet,0.0,0.0,0.0,0
-32,ID00003,46,Female,Yobe,Low,8,112,1,Food,3582,Cash Pickup,2022-07-10,No Wallet,0.0,0.0,0.0,0
-33,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,4302,Cash Pickup,2021-09-06,No Wallet,0.0,0.0,0.0,0
-34,ID00003,46,Female,Yobe,Low,8,112,1,Food,3461,Mobile Wallet,2021-05-30,Active,6190.0,25.0,5966.0,0
-35,ID00003,46,Female,Yobe,Low,8,112,1,Food,2880,Mobile Wallet,2021-07-11,Active,4646.0,31.0,3920.0,0
-36,ID00003,46,Female,Yobe,Low,8,112,1,Food,3205,Bank Account,2022-08-04,No Wallet,0.0,0.0,0.0,0
-37,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,4850,Bank Account,2023-08-13,No Wallet,0.0,0.0,0.0,0
-38,ID00003,46,Female,Yobe,Low,8,112,1,Food,3502,Mobile Wallet,2023-09-15,Inactive,3316.0,2.0,4699.0,0
-39,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,4032,Bank Account,2020-02-15,No Wallet,0.0,0.0,0.0,0
-40,ID00004,32,Female,Oyo,Low,9,61,1,Food,2962,Cash Pickup,2021-04-28,No Wallet,0.0,0.0,0.0,0
-41,ID00004,32,Female,Oyo,Low,9,61,1,Fuel,5702,Bank Account,2020-05-31,No Wallet,0.0,0.0,0.0,0
-42,ID00004,32,Female,Oyo,Low,9,61,1,Food,2801,Mobile Wallet,2023-05-20,Active,3459.0,97.0,4255.0,0
-43,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,7502,Cash Pickup,2021-04-11,No Wallet,0.0,0.0,0.0,0
-44,ID00005,60,Male,Rivers,Low,8,80,1,Fuel,4532,Bank Account,2022-10-10,No Wallet,0.0,0.0,0.0,0
-45,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,7651,Bank Account,2020-03-04,No Wallet,0.0,0.0,0.0,0
-46,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,8382,Bank Account,2023-11-09,No Wallet,0.0,0.0,0.0,0
-47,ID00005,60,Male,Rivers,Low,8,80,1,Food,2982,Cash Pickup,2020-11-08,No Wallet,0.0,0.0,0.0,0
-48,ID00005,60,Male,Rivers,Low,8,80,1,Food,2758,Cash Pickup,2021-03-21,No Wallet,0.0,0.0,0.0,0
-49,ID00005,60,Male,Rivers,Low,8,80,1,Fuel,5966,Bank Account,2020-03-02,No Wallet,0.0,0.0,0.0,0
-50,ID00005,60,Male,Rivers,Low,8,80,1,Fuel,4512,Cash Pickup,2022-04-04,No Wallet,0.0,0.0,0.0,0
-51,ID00005,60,Male,Rivers,Low,8,80,1,Food,3241,Bank Account,2021-04-02,No Wallet,0.0,0.0,0.0,0
-52,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,7619,Cash Pickup,2022-01-07,No Wallet,0.0,0.0,0.0,0
-53,ID00006,25,Female,Kaduna,Middle,4,86,0,Fuel,3498,Cash Pickup,2019-01-20,No Wallet,0.0,0.0,0.0,0
-54,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2106,Mobile Wallet,2020-07-26,Active,4238.0,28.0,6608.0,0
-55,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5654,Mobile Wallet,2023-09-03,Active,1747.0,96.0,7516.0,0
-56,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,4908,Mobile Wallet,2020-02-13,Active,4357.0,54.0,3968.0,0
-57,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,4741,Bank Account,2021-05-07,No Wallet,0.0,0.0,0.0,0
-58,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5290,Mobile Wallet,2020-09-18,Inactive,6654.0,8.0,4128.0,1
-59,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2324,Cash Pickup,2020-09-02,No Wallet,0.0,0.0,0.0,0
-60,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5544,Cash Pickup,2020-04-18,No Wallet,0.0,0.0,0.0,0
-61,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2182,Bank Account,2019-07-05,No Wallet,0.0,0.0,0.0,0
-62,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5168,Bank Account,2019-12-29,No Wallet,0.0,0.0,0.0,0
-63,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2429,Bank Account,2020-02-06,No Wallet,0.0,0.0,0.0,0
-64,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,4992,Cash Pickup,2023-07-06,No Wallet,0.0,0.0,0.0,0
-65,ID00006,25,Female,Kaduna,Middle,4,86,0,Fuel,3454,Bank Account,2023-06-17,No Wallet,0.0,0.0,0.0,0
-66,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2212,Mobile Wallet,2023-11-13,Active,4210.0,41.0,5359.0,0
-67,ID00006,25,Female,Kaduna,Middle,4,86,0,Fuel,3045,Mobile Wallet,2020-01-15,Active,4970.0,72.0,6262.0,0
-68,ID00007,38,Female,Rivers,High,2,70,0,Food,1320,Bank Account,2023-08-16,No Wallet,0.0,0.0,0.0,0
-69,ID00007,38,Female,Rivers,High,2,70,0,Cash Transfer,2535,Mobile Wallet,2022-09-18,Inactive,9626.0,21.0,2840.0,0
-70,ID00007,38,Female,Rivers,High,2,70,0,Cash Transfer,2985,Mobile Wallet,2021-07-07,Active,4420.0,1.0,3633.0,0
-71,ID00007,38,Female,Rivers,High,2,70,0,Fuel,2329,Cash Pickup,2023-06-19,No Wallet,0.0,0.0,0.0,0
-72,ID00007,38,Female,Rivers,High,2,70,0,Fuel,1839,Mobile Wallet,2021-05-04,Active,6376.0,50.0,4866.0,0
-73,ID00007,38,Female,Rivers,High,2,70,0,Food,1095,Mobile Wallet,2021-05-16,Active,4583.0,53.0,2975.0,0
-74,ID00007,38,Female,Rivers,High,2,70,0,Cash Transfer,2875,Mobile Wallet,2020-06-04,Inactive,5587.0,9.0,3536.0,0
-75,ID00007,38,Female,Rivers,High,2,70,0,Fuel,1985,Mobile Wallet,2021-03-09,Active,10691.0,40.0,6253.0,0
-76,ID00007,38,Female,Rivers,High,2,70,0,Food,1202,Cash Pickup,2021-02-03,No Wallet,0.0,0.0,0.0,0
-77,ID00007,38,Female,Rivers,High,2,70,0,Fuel,2053,Bank Account,2023-07-22,No Wallet,0.0,0.0,0.0,0
-78,ID00007,38,Female,Rivers,High,2,70,0,Fuel,2256,Bank Account,2022-05-04,No Wallet,0.0,0.0,0.0,0
-79,ID00007,38,Female,Rivers,High,2,70,0,Food,1050,Cash Pickup,2020-04-14,No Wallet,0.0,0.0,0.0,0
-80,ID00008,56,Female,Kano,Low,5,93,1,Fuel,5198,Bank Account,2021-08-11,No Wallet,0.0,0.0,0.0,0
-81,ID00009,36,Male,Kano,Low,7,21,1,Food,2871,Cash Pickup,2019-10-26,No Wallet,0.0,0.0,0.0,0
-82,ID00009,36,Male,Kano,Low,7,21,1,Fuel,5531,Cash Pickup,2021-11-17,No Wallet,0.0,0.0,0.0,0
-83,ID00009,36,Male,Kano,Low,7,21,1,Fuel,4335,Cash Pickup,2020-06-08,No Wallet,0.0,0.0,0.0,0
-84,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,4270,Mobile Wallet,2020-03-07,Active,4643.0,29.0,4674.0,0
-85,ID00010,40,Male,Oyo,Low,2,54,0,Cash Transfer,8220,Bank Account,2022-01-17,No Wallet,0.0,0.0,0.0,0
-86,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,4853,Bank Account,2021-08-21,No Wallet,0.0,0.0,0.0,0
-87,ID00010,40,Male,Oyo,Low,2,54,0,Food,3364,Mobile Wallet,2020-12-02,Active,8450.0,18.0,2806.0,0
-88,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,5797,Mobile Wallet,2022-01-12,Active,3651.0,7.0,5493.0,0
-89,ID00010,40,Male,Oyo,Low,2,54,0,Food,2464,Cash Pickup,2019-07-08,No Wallet,0.0,0.0,0.0,0
-90,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,5118,Bank Account,2023-04-23,No Wallet,0.0,0.0,0.0,0
-91,ID00010,40,Male,Oyo,Low,2,54,0,Food,3247,Mobile Wallet,2023-06-07,Active,10059.0,76.0,3994.0,0
-92,ID00010,40,Male,Oyo,Low,2,54,0,Food,3249,Bank Account,2022-01-28,No Wallet,0.0,0.0,0.0,0
-93,ID00010,40,Male,Oyo,Low,2,54,0,Cash Transfer,6692,Mobile Wallet,2019-06-12,Active,7437.0,39.0,2561.0,0
-94,ID00010,40,Male,Oyo,Low,2,54,0,Cash Transfer,8096,Cash Pickup,2020-12-05,No Wallet,0.0,0.0,0.0,0
-95,ID00010,40,Male,Oyo,Low,2,54,0,Food,2701,Cash Pickup,2022-04-09,No Wallet,0.0,0.0,0.0,0
-96,ID00011,28,Female,Oyo,Middle,4,44,0,Cash Transfer,4872,Bank Account,2022-07-18,No Wallet,0.0,0.0,0.0,0
-97,ID00012,28,Female,Rivers,Low,6,63,1,Fuel,5435,Mobile Wallet,2023-06-29,Active,4611.0,35.0,1986.0,0
-98,ID00012,28,Female,Rivers,Low,6,63,1,Cash Transfer,6389,Mobile Wallet,2021-06-06,Active,3901.0,65.0,3303.0,0
-99,ID00012,28,Female,Rivers,Low,6,63,1,Food,3135,Bank Account,2019-03-01,No Wallet,0.0,0.0,0.0,0
+,National_ID,Age,Gender,Region,Income_Level,Household_Dependents,Monthly_Energy_Consumption_kWh,Subsidy_Eligibility,Subsidy_Type,Amount_NGN,Channel,Date,Wallet_Activity_Status,Wallet_Balance_NGN,Days_Since_Last_Transaction,Avg_Monthly_Wallet_Balance,Suspected_Fraud,Age_Group,Dependency_Group
+0,ID00001,56,Male,Lagos,Low,4,151,1,Food,2977,Mobile Wallet,2022-01-04,Active,4373.0,16.0,5986.0,0,46-60,Medium (3-5)
+1,ID00001,56,Male,Lagos,Low,4,151,1,Food,2689,Bank Account,2020-12-20,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+2,ID00001,56,Male,Lagos,Low,4,151,1,Food,3251,Mobile Wallet,2022-06-05,Active,3353.0,76.0,2276.0,0,46-60,Medium (3-5)
+3,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,6065,Mobile Wallet,2021-05-23,Active,5090.0,55.0,4347.0,0,46-60,Medium (3-5)
+4,ID00001,56,Male,Lagos,Low,4,151,1,Food,3201,Mobile Wallet,2023-09-17,Inactive,7870.0,3.0,5906.0,0,46-60,Medium (3-5)
+5,ID00001,56,Male,Lagos,Low,4,151,1,Fuel,4186,Bank Account,2019-11-05,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+6,ID00001,56,Male,Lagos,Low,4,151,1,Food,3558,Cash Pickup,2022-08-27,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+7,ID00001,56,Male,Lagos,Low,4,151,1,Food,3485,Mobile Wallet,2021-03-07,Active,3003.0,49.0,3309.0,0,46-60,Medium (3-5)
+8,ID00001,56,Male,Lagos,Low,4,151,1,Fuel,5108,Bank Account,2021-09-10,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+9,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,8088,Cash Pickup,2020-10-11,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+10,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,6964,Bank Account,2019-03-14,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+11,ID00001,56,Male,Lagos,Low,4,151,1,Fuel,5689,Mobile Wallet,2020-09-14,Active,4207.0,94.0,3973.0,0,46-60,Medium (3-5)
+12,ID00001,56,Male,Lagos,Low,4,151,1,Cash Transfer,6816,Cash Pickup,2019-07-30,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+13,ID00001,56,Male,Lagos,Low,4,151,1,Food,2701,Bank Account,2020-09-26,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+14,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,4170,Cash Pickup,2023-03-16,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+15,ID00002,69,Female,Oyo,Middle,7,39,0,Food,2039,Bank Account,2020-10-10,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+16,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5624,Bank Account,2021-06-06,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+17,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5667,Cash Pickup,2021-06-23,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+18,ID00002,69,Female,Oyo,Middle,7,39,0,Food,2114,Bank Account,2023-08-31,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+19,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3320,Cash Pickup,2022-09-23,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+20,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,4183,Cash Pickup,2019-09-26,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+21,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3285,Mobile Wallet,2020-08-12,Active,7566.0,91.0,4782.0,0,60+,High (6-8)
+22,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3327,Cash Pickup,2019-06-18,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+23,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5806,Mobile Wallet,2023-01-31,Active,3176.0,35.0,4282.0,0,60+,High (6-8)
+24,ID00002,69,Female,Oyo,Middle,7,39,0,Fuel,3500,Bank Account,2023-06-11,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+25,ID00002,69,Female,Oyo,Middle,7,39,0,Cash Transfer,5068,Cash Pickup,2019-04-11,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+26,ID00002,69,Female,Oyo,Middle,7,39,0,Food,2076,Cash Pickup,2019-05-08,No Wallet,0.0,0.0,0.0,0,60+,High (6-8)
+27,ID00003,46,Female,Yobe,Low,8,112,1,Food,2772,Cash Pickup,2019-09-05,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+28,ID00003,46,Female,Yobe,Low,8,112,1,Food,2404,Cash Pickup,2020-08-12,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+29,ID00003,46,Female,Yobe,Low,8,112,1,Food,2536,Mobile Wallet,2020-07-25,Active,9323.0,83.0,2422.0,0,46-60,High (6-8)
+30,ID00003,46,Female,Yobe,Low,8,112,1,Food,3132,Mobile Wallet,2023-04-03,Active,8105.0,34.0,2921.0,0,46-60,High (6-8)
+31,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,5958,Cash Pickup,2023-08-01,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+32,ID00003,46,Female,Yobe,Low,8,112,1,Food,3582,Cash Pickup,2022-07-10,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+33,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,4302,Cash Pickup,2021-09-06,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+34,ID00003,46,Female,Yobe,Low,8,112,1,Food,3461,Mobile Wallet,2021-05-30,Active,6190.0,25.0,5966.0,0,46-60,High (6-8)
+35,ID00003,46,Female,Yobe,Low,8,112,1,Food,2880,Mobile Wallet,2021-07-11,Active,4646.0,31.0,3920.0,0,46-60,High (6-8)
+36,ID00003,46,Female,Yobe,Low,8,112,1,Food,3205,Bank Account,2022-08-04,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+37,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,4850,Bank Account,2023-08-13,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+38,ID00003,46,Female,Yobe,Low,8,112,1,Food,3502,Mobile Wallet,2023-09-15,Inactive,3316.0,2.0,4699.0,0,46-60,High (6-8)
+39,ID00003,46,Female,Yobe,Low,8,112,1,Fuel,4032,Bank Account,2020-02-15,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+40,ID00004,32,Female,Oyo,Low,9,61,1,Food,2962,Cash Pickup,2021-04-28,No Wallet,0.0,0.0,0.0,0,31-45,Very High (9+)
+41,ID00004,32,Female,Oyo,Low,9,61,1,Fuel,5702,Bank Account,2020-05-31,No Wallet,0.0,0.0,0.0,0,31-45,Very High (9+)
+42,ID00004,32,Female,Oyo,Low,9,61,1,Food,2801,Mobile Wallet,2023-05-20,Active,3459.0,97.0,4255.0,0,31-45,Very High (9+)
+43,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,7502,Cash Pickup,2021-04-11,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+44,ID00005,60,Male,Rivers,Low,8,80,1,Fuel,4532,Bank Account,2022-10-10,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+45,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,7651,Bank Account,2020-03-04,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+46,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,8382,Bank Account,2023-11-09,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+47,ID00005,60,Male,Rivers,Low,8,80,1,Food,2982,Cash Pickup,2020-11-08,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+48,ID00005,60,Male,Rivers,Low,8,80,1,Food,2758,Cash Pickup,2021-03-21,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+49,ID00005,60,Male,Rivers,Low,8,80,1,Fuel,5966,Bank Account,2020-03-02,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+50,ID00005,60,Male,Rivers,Low,8,80,1,Fuel,4512,Cash Pickup,2022-04-04,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+51,ID00005,60,Male,Rivers,Low,8,80,1,Food,3241,Bank Account,2021-04-02,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+52,ID00005,60,Male,Rivers,Low,8,80,1,Cash Transfer,7619,Cash Pickup,2022-01-07,No Wallet,0.0,0.0,0.0,0,46-60,High (6-8)
+53,ID00006,25,Female,Kaduna,Middle,4,86,0,Fuel,3498,Cash Pickup,2019-01-20,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+54,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2106,Mobile Wallet,2020-07-26,Active,4238.0,28.0,6608.0,0,18-30,Medium (3-5)
+55,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5654,Mobile Wallet,2023-09-03,Active,1747.0,96.0,7516.0,0,18-30,Medium (3-5)
+56,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,4908,Mobile Wallet,2020-02-13,Active,4357.0,54.0,3968.0,0,18-30,Medium (3-5)
+57,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,4741,Bank Account,2021-05-07,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+58,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5290,Mobile Wallet,2020-09-18,Inactive,6654.0,8.0,4128.0,1,18-30,Medium (3-5)
+59,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2324,Cash Pickup,2020-09-02,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+60,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5544,Cash Pickup,2020-04-18,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+61,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2182,Bank Account,2019-07-05,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+62,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,5168,Bank Account,2019-12-29,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+63,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2429,Bank Account,2020-02-06,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+64,ID00006,25,Female,Kaduna,Middle,4,86,0,Cash Transfer,4992,Cash Pickup,2023-07-06,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+65,ID00006,25,Female,Kaduna,Middle,4,86,0,Fuel,3454,Bank Account,2023-06-17,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+66,ID00006,25,Female,Kaduna,Middle,4,86,0,Food,2212,Mobile Wallet,2023-11-13,Active,4210.0,41.0,5359.0,0,18-30,Medium (3-5)
+67,ID00006,25,Female,Kaduna,Middle,4,86,0,Fuel,3045,Mobile Wallet,2020-01-15,Active,4970.0,72.0,6262.0,0,18-30,Medium (3-5)
+68,ID00007,38,Female,Rivers,High,2,70,0,Food,1320,Bank Account,2023-08-16,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+69,ID00007,38,Female,Rivers,High,2,70,0,Cash Transfer,2535,Mobile Wallet,2022-09-18,Inactive,9626.0,21.0,2840.0,0,31-45,Low (0-2)
+70,ID00007,38,Female,Rivers,High,2,70,0,Cash Transfer,2985,Mobile Wallet,2021-07-07,Active,4420.0,1.0,3633.0,0,31-45,Low (0-2)
+71,ID00007,38,Female,Rivers,High,2,70,0,Fuel,2329,Cash Pickup,2023-06-19,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+72,ID00007,38,Female,Rivers,High,2,70,0,Fuel,1839,Mobile Wallet,2021-05-04,Active,6376.0,50.0,4866.0,0,31-45,Low (0-2)
+73,ID00007,38,Female,Rivers,High,2,70,0,Food,1095,Mobile Wallet,2021-05-16,Active,4583.0,53.0,2975.0,0,31-45,Low (0-2)
+74,ID00007,38,Female,Rivers,High,2,70,0,Cash Transfer,2875,Mobile Wallet,2020-06-04,Inactive,5587.0,9.0,3536.0,0,31-45,Low (0-2)
+75,ID00007,38,Female,Rivers,High,2,70,0,Fuel,1985,Mobile Wallet,2021-03-09,Active,10691.0,40.0,6253.0,0,31-45,Low (0-2)
+76,ID00007,38,Female,Rivers,High,2,70,0,Food,1202,Cash Pickup,2021-02-03,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+77,ID00007,38,Female,Rivers,High,2,70,0,Fuel,2053,Bank Account,2023-07-22,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+78,ID00007,38,Female,Rivers,High,2,70,0,Fuel,2256,Bank Account,2022-05-04,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+79,ID00007,38,Female,Rivers,High,2,70,0,Food,1050,Cash Pickup,2020-04-14,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+80,ID00008,56,Female,Kano,Low,5,93,1,Fuel,5198,Bank Account,2021-08-11,No Wallet,0.0,0.0,0.0,0,46-60,Medium (3-5)
+81,ID00009,36,Male,Kano,Low,7,21,1,Food,2871,Cash Pickup,2019-10-26,No Wallet,0.0,0.0,0.0,0,31-45,High (6-8)
+82,ID00009,36,Male,Kano,Low,7,21,1,Fuel,5531,Cash Pickup,2021-11-17,No Wallet,0.0,0.0,0.0,0,31-45,High (6-8)
+83,ID00009,36,Male,Kano,Low,7,21,1,Fuel,4335,Cash Pickup,2020-06-08,No Wallet,0.0,0.0,0.0,0,31-45,High (6-8)
+84,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,4270,Mobile Wallet,2020-03-07,Active,4643.0,29.0,4674.0,0,31-45,Low (0-2)
+85,ID00010,40,Male,Oyo,Low,2,54,0,Cash Transfer,8220,Bank Account,2022-01-17,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+86,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,4853,Bank Account,2021-08-21,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+87,ID00010,40,Male,Oyo,Low,2,54,0,Food,3364,Mobile Wallet,2020-12-02,Active,8450.0,18.0,2806.0,0,31-45,Low (0-2)
+88,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,5797,Mobile Wallet,2022-01-12,Active,3651.0,7.0,5493.0,0,31-45,Low (0-2)
+89,ID00010,40,Male,Oyo,Low,2,54,0,Food,2464,Cash Pickup,2019-07-08,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+90,ID00010,40,Male,Oyo,Low,2,54,0,Fuel,5118,Bank Account,2023-04-23,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+91,ID00010,40,Male,Oyo,Low,2,54,0,Food,3247,Mobile Wallet,2023-06-07,Active,10059.0,76.0,3994.0,0,31-45,Low (0-2)
+92,ID00010,40,Male,Oyo,Low,2,54,0,Food,3249,Bank Account,2022-01-28,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+93,ID00010,40,Male,Oyo,Low,2,54,0,Cash Transfer,6692,Mobile Wallet,2019-06-12,Active,7437.0,39.0,2561.0,0,31-45,Low (0-2)
+94,ID00010,40,Male,Oyo,Low,2,54,0,Cash Transfer,8096,Cash Pickup,2020-12-05,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+95,ID00010,40,Male,Oyo,Low,2,54,0,Food,2701,Cash Pickup,2022-04-09,No Wallet,0.0,0.0,0.0,0,31-45,Low (0-2)
+96,ID00011,28,Female,Oyo,Middle,4,44,0,Cash Transfer,4872,Bank Account,2022-07-18,No Wallet,0.0,0.0,0.0,0,18-30,Medium (3-5)
+97,ID00012,28,Female,Rivers,Low,6,63,1,Fuel,5435,Mobile Wallet,2023-06-29,Active,4611.0,35.0,1986.0,0,18-30,High (6-8)
+98,ID00012,28,Female,Rivers,Low,6,63,1,Cash Transfer,6389,Mobile Wallet,2021-06-06,Active,3901.0,65.0,3303.0,0,18-30,High (6-8)
+99,ID00012,28,Female,Rivers,Low,6,63,1,Food,3135,Bank Account,2019-03-01,No Wallet,0.0,0.0,0.0,0,18-30,High (6-8)
